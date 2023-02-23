@@ -32,6 +32,10 @@ Por exemplo, a fórmula da água se escreve "H20", mas o número "2" fica um pou
 H<sub>2</sub>O
 ```
 
+### Códigos `<code>`
+
+
+
 </br>
 </br>
 
