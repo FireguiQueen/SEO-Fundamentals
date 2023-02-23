@@ -42,3 +42,4 @@ São mais utilizadas para "substituir" a parte do CSS. Invés de você estilizar
 
 - <b> </b> <!-- Adiciona negrito ao conteúdo -->
 - <i> </i> <!-- Adiciona itálico ao conteúdo -->
+- <u> </u> <!-- Adiciona sublinhado ao conteúdo -->
