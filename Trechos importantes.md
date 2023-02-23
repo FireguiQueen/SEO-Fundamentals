@@ -25,8 +25,8 @@ O gato pulou a <ins>cerca alta</ins>.
 -->
 ```
 
-### Subscrito `<sub>`
-É usada para representar texto subscrito, ou seja, um texto que aparece ligeiramente abaixo da linha de base comum, como na representação de fórmulas químicas, equações matemáticas e notas de rodapé. Isso ajuda a tornar o texto mais claro e fácil de entender para o leitor, especialmente em casos onde a formatação correta é crucial, como em conteúdo científico e técnico.
+### Subscrito/sobrescrito `<sub>`
+É usada para representar texto subscrito ou sobrescrito, ou seja, um texto que aparece ligeiramente abaixo ou acima da linha de base comum, como na representação de fórmulas químicas, equações matemáticas e notas de rodapé. Isso ajuda a tornar o texto mais claro e fácil de entender para o leitor, especialmente em casos onde a formatação correta é crucial, como em conteúdo científico e técnico.
 Por exemplo, a fórmula da água se escreve "H20", mas o número "2" fica um pouco mais abaixo, você pode usar o `<sub>` para resolver isto. 
 ```html
 H<sub>2</sub>O
