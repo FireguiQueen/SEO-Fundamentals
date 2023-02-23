@@ -9,7 +9,8 @@ O negrito é extremamente importante, é ele que da uma relevância maior a dete
 É importe utilizar apenas quando queremos que aquele trecho realmente seja destacado, e é sempre bom utilizar em palavras chaves que estão relacionadas ao conteúdo de sua página.
 
 ### Itálico
-
+O uso de itálico pode ser mais comum em citações, obras literárias, nomes científicos e estrangeiros, e em algumas linguagens de programação, onde é usado para destacar comandos ou trechos de códigod. Em geral, o itálico também pode ser pensado como um negrito, porém, para trechos que possuem um pouco menos de relevância.
+ 
 </br>
 </br>
 
