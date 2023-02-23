@@ -37,7 +37,13 @@ Ela é usada para indicar que o texto contido dentro dela é um trecho de códig
 
 Caso o seu código possua mais linhas, você pode utilizar da tag `pre`. O texto contido dentro dela deve ser apresentado exatamente como está, preservando espaços, indentações, quebras de linha e outros espaçamentos colocados no seu editor de código.
 
+### Citações `<q> ; <blockquote> ; <cite>`
+A tag `<q>` é mais utilizada para representar pequenos trechos que foram retirados de outro lugar. Usada para representar uma citação curta (short quotation).
 
+A tag `blockquote` é como se fosse uma tag `<q>`, porém, para citações longas, que ocupam mais de um parágrafo. Então caso queira citar um trecho longo de um livro por exemplo, você usaria da tag `blockquote`.
+
+A tag `<cite>`, por sua vez, é utilizada para indicar a autoria de uma citação ou referência a uma fonte. Ela é geralmente utilizada dentro das tags `<blockquote>` ou `<q>` como um atributo. Mas também pode ser usada em outros contextos, como para citar o autor de um livro ou artigo no corpo do texto.
+ 
 </br>
 </br>
 
