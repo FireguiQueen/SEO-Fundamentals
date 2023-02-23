@@ -4,7 +4,7 @@
 
 ## Tags semânticas
 
-### Negrito `<strong> `
+### Negrito `<strong>`
 O negrito é extremamente importante, é ele que da uma relevância maior a determinado trecho. 
 É importe utilizar apenas quando queremos que aquele trecho realmente seja destacado, e é sempre bom utilizar em palavras chaves que estão relacionadas ao conteúdo de sua página.
 
