@@ -15,6 +15,15 @@ O uso de itálico pode ser mais comum em citações, obras literárias, nomes ci
 É útil em várias situações, como para destacar uma palavra-chave importante, uma citação notável, um trecho de código, uma data, um endereço ou outro tipo de informação relevante. Ela pode ser usada em conjunto com outras tags HTML, como `<p>`, `<h1>`, `<li>` e outras.
 Quando o navegador exibe o conteúdo da página, o texto envolvido pela tag `<mark>` geralmente aparece com um fundo amarelo claro, mas isto pode ser alterado usando a propriedade `background-color` do CSS.
 
+### Sublinhdo `<ins>`
+A tag "ins" é mais comumente usada em documentos colaborativos ou em documentos que passaram por revisão, onde é importante indicar claramente o que foi adicionado em relação à versão original. A tag "ins" pode ser combinada com outras tags de formatação de texto, como negrito ou itálico, para enfatizar ainda mais a inserção.
+
+Por exemplo, se um documento original contém o texto "O gato pulou a cerca", e a versão revisada incluiu a palavra "alta" para descrever a cerca, o trecho revisado poderia ser marcado com a tag "ins":
+```html
+O gato pulou a <ins>cerca alta</ins>.
+<!-- Isso tornaria claro para o leitor que a palavra "alta" foi adicionada à versão revisada do texto.
+-->
+```
 </br>
 </br>
 
