@@ -11,6 +11,10 @@ O negrito é extremamente importante, é ele que da uma relevância maior a dete
 ### Itálico `<em>`
 O uso de itálico pode ser mais comum em citações, obras literárias, nomes científicos e estrangeiros, e em algumas linguagens de programação, onde é usado para destacar comandos ou trechos de códigod. Em geral, o itálico também pode ser pensado como um negrito, porém, para trechos que possuem um pouco menos de relevância.
 
+### Marcação `<mark>`
+É útil em várias situações, como para destacar uma palavra-chave importante, uma citação notável, um trecho de código, uma data, um endereço ou outro tipo de informação relevante. Ela pode ser usada em conjunto com outras tags HTML, como `<p>`, `<h1>`, `<li>` e outras.
+Quando o navegador exibe o conteúdo da página, o texto envolvido pela tag `<mark>` geralmente aparece com um fundo amarelo claro, mas isto pode ser alterado usando a propriedade `background-color` do CSS.
+
 </br>
 </br>
 
