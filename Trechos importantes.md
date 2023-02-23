@@ -33,7 +33,9 @@ H<sub>2</sub>O
 ```
 
 ### Códigos `<code>`
+Ela é usada para indicar que o texto contido dentro dela é um trecho de código, como uma linha de código em uma linguagem de programação, por exemplo. A utilização correta da tag `<code>` ajuda a destacar o trecho de código no conteúdo e a melhorar a legibilidade e compreensão do texto. Além disso, a tag faz com que o texto dentro dela tenha uma fonte monoespaçada, o que torna o código mais legível e fácil de ler para os desenvolvedores.
 
+Caso o seu código possua mais linhas, você pode utilizar da tag `pre`. O texto contido dentro dela deve ser apresentado exatamente como está, preservando espaços, indentações, quebras de linha e outros espaçamentos colocados no seu editor de código.
 
 
 </br>
