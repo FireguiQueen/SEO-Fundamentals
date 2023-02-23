@@ -7,7 +7,13 @@ quando você deseja fazer um site semântico e bem estruturado.
 
 É importante lembrar que, mesmo tendo a opção de colocar a tag h2 como título principal do site, e depois modificar o tamanho e espesssura no CSS para ficar que nem uma h1, você jamais deve fazer isto. Não há o menor problema em estilizar as tags de título usando o CSS, mas jamais estilize para poder usar uma tag h2 como uma tag h1 por exemplo. 
 
-Sempre respeite a hierarquia, jamais coloque as tags de títulos de maneira desorganizada.
+Sempre respeite a hierarquia, jamais coloque as tags de títulos de maneira desorganizada. Como por exemplo.:
+```html
+<h1> </h1>
+<h3> </h3>
+<h2> </h2>
+```
+
 Sua página pode possuir mais de uma h1, mas é importante separar por sections.
 ```html
 <section class="">
